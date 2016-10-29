@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KingPixil/plate/issues"
   },
-  "homepage": "https://github.com/KingPixil/plate#readme"
+  "homepage": "https://github.com/KingPixil/plate#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
