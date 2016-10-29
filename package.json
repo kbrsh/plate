@@ -1,0 +1,22 @@
+{
+  "name": "plate",
+  "version": "0.0.0",
+  "description": "Boilerplate for web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPixil/plate.git"
+  },
+  "keywords": [
+    "plate"
+  ],
+  "author": "Kabir Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingPixil/plate/issues"
+  },
+  "homepage": "https://github.com/KingPixil/plate#readme"
+}
