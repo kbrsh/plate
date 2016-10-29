@@ -21,6 +21,7 @@
   "homepage": "https://github.com/KingPixil/plate#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "hexu": "^1.0.0",
     "mongodb": "^2.2.11",
     "mongoose": "^4.6.5"
   }
