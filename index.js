@@ -1,5 +1,4 @@
 var express = require('express');
-var hexu = require("hexu");
 var app = express();
 
 app.use(express.static('assets'));
