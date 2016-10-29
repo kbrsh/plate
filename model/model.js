@@ -1,2 +1,4 @@
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/plate');
+
+var mongo_url = 'mongodb://localhost:27017/plate';
+mongoose.connect(mongo_url);
