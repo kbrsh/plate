@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/KingPixil/plate#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11"
   }
 }
