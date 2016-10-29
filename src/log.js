@@ -1,0 +1,1 @@
+var hexu = require("hexu");
