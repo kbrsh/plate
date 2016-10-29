@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello Plate');
+  res.sendFile(__dirname + "/views/index.html");
 });
 
 app.listen(3000);
